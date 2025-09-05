@@ -38,6 +38,9 @@ Banking.pbix → Power BI dashboard with KPIs, charts, and insights
 <br>
 
 ⚙️ Setup Instructions
+
+<br>
+
 1️⃣ Clone Repository
 git clone https://github.com/your-username/banking-analysis.git
 cd banking-analysis
@@ -60,7 +63,9 @@ Open MySqlconnect.ipynb to test MySQL connection.
 4️⃣ Open Power BI Dashboard
 
 Open Banking.pbix in Power BI Desktop to explore interactive reports.
+
 <br>
+
 📊 Dashboard Insights
 
 The Power BI dashboard (Banking.pbix) includes:
@@ -72,7 +77,9 @@ Loan distribution by bank
 Client demographics
 
 Trends & KPIs
+
 <br>
+
 🛠️ Tools & Technologies
 
 Python (Pandas, Matplotlib, Seaborn)
